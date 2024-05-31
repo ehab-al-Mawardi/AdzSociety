@@ -37,7 +37,6 @@ nav {
   position: absolute; /* Allows for precise positioning */
   top: 20px; /* Adjust the top position as needed */
   left: 20px; /* Adjust the left position as needed */
-  text-shadow: 2px 2px 5px black;
 }
 
 .logo1 img {
@@ -45,7 +44,7 @@ nav {
   height: auto; /* Maintain aspect ratio */
   margin: 0; /* Remove any default margins */
   padding: 0; /* Remove any default padding */
-  text-shadow: 2px 2px 5px black;
+  text-shadow: 5px 5px 10px black;
 }
 
 nav ul {
