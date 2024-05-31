@@ -66,7 +66,7 @@ nav ul li a {
     background: url('images/hero-bg.jpg') no-repeat center center/cover;
     color: white;
     text-align: center;
-    text-shadow: 2px 2px;
+    text-shadow: 2px 2px 5px black;
 }
 
 .hero h1 {
