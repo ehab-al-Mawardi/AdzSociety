@@ -70,11 +70,6 @@ nav ul li a {
     text-shadow: 2px 2px 5px black;
 }
 
-.hero a:hover {
-    text-decoration: none; /* Remove underline from link */
-    color: #ffa800;
-}
-
 .payment {
   font-size: 18px; /* Adjust the font size as needed */
 }
