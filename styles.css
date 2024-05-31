@@ -180,6 +180,7 @@ footer p {
 
 .social-links li {
     margin: 0 10px;
+    text-shadow: 2px 2px 5px black;
 }
 
 .social-links li a {
