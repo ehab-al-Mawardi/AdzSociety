@@ -70,8 +70,23 @@ nav ul li a {
     text-shadow: 2px 2px 5px black;
 }
 
+.payment {
+  font-size: 18px; /* Adjust the font size as needed */
+}
+
 .text-shadow {
-  text-shadow: 2px 2px 5px black; /* Adjust shadow as needed */
+  text-shadow: 2px 2px 4px black; /* Adjust shadow as needed */
+}
+
+.payment a {
+  margin-left: 8px; /* Space between the text and icon */
+  color: #0070ba; /* PayPal blue color */
+  text-decoration: none; /* Remove underline from link */
+  font-size: 24px; /* Adjust the size of the icon as needed */
+}
+
+.payment a:hover {
+  color: #005ea6; /* Darker blue on hover */
 }
 
 .hero h1 {
