@@ -31,14 +31,19 @@ nav {
     }
 
 .logo1 {
-  width: 100px; /* Adjust the width as needed */
-  height: auto; /* Maintain aspect ratio */
-  display: block; /* Ensure it behaves as a block-level element */
-  margin: 0; /* Remove any default margins */
-  padding: 0; /* Remove any default padding */
+  display: flex; /* Flexbox to align the content */
+  justify-content: flex-start; /* Align content to the start (left) */
+  align-items: center; /* Center align items vertically */
   position: absolute; /* Allows for precise positioning */
   top: 20px; /* Adjust the top position as needed */
   left: 20px; /* Adjust the left position as needed */
+}
+
+.logo1 img {
+  width: 100px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+  margin: 0; /* Remove any default margins */
+  padding: 0; /* Remove any default padding */
 }
 
 nav ul {
