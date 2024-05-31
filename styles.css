@@ -70,6 +70,10 @@ nav ul li a {
     text-shadow: 2px 2px 5px black;
 }
 
+.payment {
+    text-shadow: 2px 2px 5px black;
+}
+
 .hero h1 {
     font-size: 3em;
     margin-bottom: 10px;
