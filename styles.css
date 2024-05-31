@@ -30,6 +30,7 @@ nav {
     font-weight: bold;
     }
 
+
 .logo1 {
   display: flex; /* Flexbox to align the content */
   justify-content: flex-start; /* Align content to the start (left) */
@@ -44,7 +45,8 @@ nav {
   height: auto; /* Maintain aspect ratio */
   margin: 0; /* Remove any default margins */
   padding: 0; /* Remove any default padding */
-  shadow: 10px 10px 5px #aaaaaa;
+  border-radius: 50%; /* Make the logo circular */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Add shadow to the logo */
 }
 
 nav ul {
