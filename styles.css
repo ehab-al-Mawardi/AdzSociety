@@ -44,7 +44,7 @@ nav {
   height: auto; /* Maintain aspect ratio */
   margin: 0; /* Remove any default margins */
   padding: 0; /* Remove any default padding */
-  text-shadow: 5px 5px 10px black;
+  box-shadow: 10px 10px 5px #aaaaaa;
 }
 
 nav ul {
