@@ -31,11 +31,14 @@ nav {
     }
 
 .logo1 {
-    object-fit: fit;
-    padding: 10px;
-    margin: 10px;
-    flex: 1 1 calc(33.333% - 30px);
-    align: left;
+  width: 100px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Ensure it behaves as a block-level element */
+  margin: 0; /* Remove any default margins */
+  padding: 0; /* Remove any default padding */
+  position: absolute; /* Allows for precise positioning */
+  top: 20px; /* Adjust the top position as needed */
+  left: 20px; /* Adjust the left position as needed */
 }
 
 nav ul {
