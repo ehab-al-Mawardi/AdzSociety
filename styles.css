@@ -94,6 +94,19 @@ section {
     object-fit: cover;
 }
 
+#video .video-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#video video {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
 .file-buttons {
     margin-top: 20px;
 }
