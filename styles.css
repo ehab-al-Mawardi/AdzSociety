@@ -70,8 +70,8 @@ nav ul li a {
     text-shadow: 2px 2px 5px black;
 }
 
-.payment {
-    text-shadow: 2px 2px 5px black;
+.text-shadow {
+  text-shadow: 2px 2px 5px black; /* Adjust shadow as needed */
 }
 
 .hero h1 {
