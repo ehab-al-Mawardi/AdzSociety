@@ -80,7 +80,7 @@ nav ul li a {
 
 .payment a {
   margin-left: 8px; /* Space between the text and icon */
-  
+  color: #0070ba; /* PayPal blue color */
   text-decoration: none; /* Remove underline from link */
   font-size: 24px; /* Adjust the size of the icon as needed */
 }
@@ -156,6 +156,10 @@ section {
     height: auto;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.contact {
+      text-decoration: none; /* Remove underline from link */
 }
 
 .file-buttons {
