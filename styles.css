@@ -71,6 +71,7 @@ nav ul li a {
 }
 
 .hero a:hover {
+    text-decoration: none; /* Remove underline from link */
     color: #ffa800;
 }
 
