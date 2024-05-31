@@ -188,6 +188,7 @@ footer {
     background: #ffa800;
     color: white;
     padding: 20px 0;
+    text-align: center;
 }
 
 footer p {
@@ -198,7 +199,7 @@ footer p {
     background-color: #333;
     color: #fff;
     text-decoration: none; /* Remove underline from link */
-
+    text-align: center;
 }
 
 .social-links {
