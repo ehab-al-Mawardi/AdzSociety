@@ -28,7 +28,6 @@ nav {
 .logo {
     font-size: 1.5em;
     font-weight: bold;
-    text-shadow: 2px 2px 5px black;
     }
 
 .logo1 {
@@ -38,6 +37,7 @@ nav {
   position: absolute; /* Allows for precise positioning */
   top: 20px; /* Adjust the top position as needed */
   left: 20px; /* Adjust the left position as needed */
+  text-shadow: 2px 2px 5px black;
 }
 
 .logo1 img {
