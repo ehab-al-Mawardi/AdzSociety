@@ -28,6 +28,9 @@ nav {
 .logo {
     font-size: 1.5em;
     font-weight: bold;
+    }
+
+.logo1 {
     object-fit: fit;
     padding: 10px;
     margin: 10px;
